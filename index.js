@@ -5,3 +5,10 @@ function theBeatlesPlay(arr1, arr2) {
   }
   return newArray;
 }
+
+function iLoveTheBeatles(arr) {
+  var counter = 0;
+  while(counter< arr.length) {
+    
+  }
+}
