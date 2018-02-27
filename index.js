@@ -8,7 +8,10 @@ function theBeatlesPlay(arr1, arr2) {
 
 function iLoveTheBeatles(arr) {
   var counter = 0;
+  var newArray = [];
   while(counter< arr.length) {
-    
+    newArray.push(arr[counter] + "!!!");
+    counter ++;
   }
+  return newArray;
 }
