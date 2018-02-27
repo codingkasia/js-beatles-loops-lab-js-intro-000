@@ -6,7 +6,7 @@ function theBeatlesPlay(arr1, arr2) {
   return newArray;
 }
 
-function iLoveTheBeatles(arr) {
+function johnLennonFacts(arr) {
   var counter = 0;
   var newArray = [];
   while(counter< arr.length) {
